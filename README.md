@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi! I'm Taz  
 
-<!--
-**bytazz/bytazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student of **Vocational Education in Microcomputer Systems and Networks (SMX)**.  
+I am passionate about the world of IT, especially **system administration** and working with different operating systems.  
 
-Here are some ideas to get you started:
+## 🚀 Experience  
+- 🐧 Use and management of **Linux**, mainly Ubuntu Server and Debian-based distributions.  
+- 💻 Experience with **Windows**, both at a user level and in basic administration.  
+- 🐍 First steps with **Python**, creating small programs and practicing programming logic.  
+- 🌐 Basic configuration of networks and virtual machines.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies and Tools  
+- **Operating Systems**: Linux, Windows, macOS  
+- **Languages**: Python (basic level)  
+- **Others**: Virtualization, networking, basic system administration  
+
+## 📚 Currently Learning  
+- Advanced functions of **Linux and Windows**  
+- **Networking fundamentals**  
+- **Operating system management**  
+
+## 🌱 Goal  
+My goal is to continue learning every day and apply my experience in technology to solve problems and create innovative solutions.  
